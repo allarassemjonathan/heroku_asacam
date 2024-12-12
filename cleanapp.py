@@ -106,7 +106,7 @@ logging.basicConfig(level=logging.INFO,
                     datefmt='%H:%M:%S')
 
 # OpenAI API key = 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
-api_key = "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"
+api_key = ""
 
 prompt = ""
 
